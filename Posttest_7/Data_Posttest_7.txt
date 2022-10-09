@@ -1,0 +1,4 @@
+Assasin Creed,Aksi,2010,30000
+God Of War,Petualangan,2000,25000
+Walking Dead,Survival,2018,24000
+aaa,aaa,100000,10000
